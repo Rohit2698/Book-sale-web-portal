@@ -1,0 +1,37 @@
+.parent{
+	border-width: 0px;
+	border-style: solid;
+	margin-top:100px;
+	height: 500px;
+	width: 500px;
+	margin-left: 30%;
+	border-radius:1px;
+	background-color: white;
+}
+#font{
+	font-weight: bold;
+	font-size: 30px;
+	font-family: Forte;
+}
+.form{
+	background-color: #808080;
+	height: 250px;
+	width: 420px;
+	padding-left: 10px;
+	margin-left: 60px;
+}
+form,input[type=text],input[type=password]{
+	border-radius: 10px;
+	width: 300px;
+	height: 45px;
+	margin: 15px;
+	font-size: 15px;
+	text-align: center;
+	font-family: Footlight MT;
+}
+input[type=submit]{
+	border-radius: 5px;
+	width: 100px;
+	height: 20px;
+	border:0px;
+}

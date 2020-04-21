@@ -1,0 +1,64 @@
+.daily_visits{
+	height: 200px;
+	border-width: 1px;
+	border-style: solid; 
+	margin-left: 300px;
+	width: 200px;
+	margin-top: 50px;
+}
+.sales{
+	height: 200px;
+	border-width: 1px;
+	border-style: solid; 
+	margin-left: 550px;
+	width: 200px;
+	margin-top: -200px;
+}
+.comments{
+	height: 200px;
+	border-width: 1px;
+	border-style: solid; 
+	margin-left: 800px;
+	width: 200px;
+	margin-top: -200px;	
+}
+.no_of_visit{
+	height: 200px;
+	border-width: 1px;
+	border-style: solid; 
+	margin-left: 1050px;
+	width: 200px;
+	margin-top: -200px;		
+}
+.area_chart{
+	height: 300px;
+	border-width: 1px;
+	border-style: solid; 
+	margin-left: 300px;
+	width: 400px;
+	margin-top: 30px;	
+}
+.line_chart{
+	height: 300px;
+	border-width: 1px;
+	border-style: solid; 
+	margin-left: 800px;
+	width: 400px;
+	margin-top: -300px;		
+}
+.ngo{
+	height: 300px;
+	border-width: 1px;
+	border-style: solid; 
+	margin-left: 300px;
+	width: 300px;
+	margin-top: 50px;	
+}
+.top_genre{
+	height: 300px;
+	border-width: 1px;
+	border-style: solid; 
+	margin-left: 700px;
+	width: 300px;
+	margin-top: -300px;	
+}

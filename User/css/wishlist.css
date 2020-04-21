@@ -1,0 +1,34 @@
+.parent{
+	background-color: white;
+	width:60%;
+	padding: 5px;
+	margin-top: -500px;
+	margin-left: 450px;
+}
+.payment,tr{
+	height: 50px;
+}
+
+input[type='text']{
+	height: 30px;
+	border-radius: 5px;
+	width:300px;
+	font-size: 15px;
+	box-shadow: 2px 2px 20px black;
+}
+
+#cvv{
+	height: 30px;
+	width: 100px;
+	box-shadow: 2px 2px 20px black;
+}
+
+button{
+	border-radius: 5px;
+	box-shadow: 1px 1px 10px black;
+	height: 30px;
+	font-family: Times New Roman;
+	font-size: 20px; 
+	width:100%;
+	cursor: pointer;
+}

@@ -1,0 +1,32 @@
+.literature{
+	height: 200px;
+	border-width: 1px;
+	border-style: solid; 
+	margin-left: 300px;
+	width: 200px;
+	margin-top: 50px;
+}
+.Crime{
+	height: 200px;
+	border-width: 1px;
+	border-style: solid; 
+	margin-left: 550px;
+	width: 200px;
+	margin-top: -200px;
+}
+.romance{
+	height: 200px;
+	border-width: 1px;
+	border-style: solid; 
+	margin-left: 800px;
+	width: 200px;
+	margin-top: -200px;	
+}
+.classic{
+	height: 200px;
+	border-width: 1px;
+	border-style: solid; 
+	margin-left: 1050px;
+	width: 200px;
+	margin-top: -200px;		
+}
